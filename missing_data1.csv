@@ -1,0 +1,15 @@
+Type,Length,IMDb Rating,Liked?
+Comedy,Short,7.2,Yes
+Drama,Medium,9.3,Yes
+Comedy,Medium,5.1,No
+Drama,Long,6.9,No
+Drama,Medium,8.3,Yes
+Drama,Short,4.5,No
+Comedy,Short,8,Yes
+Drama,Medium,7.5,Yes
+,Medium,6.7,Yes
+Comedy,,3.6,Yes
+Drama,Long,,Yes
+Drama,Medium,8.1,Yes
+Comedy,Short,,Yes
+,Long,7.5,Yes
